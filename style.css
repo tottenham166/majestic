@@ -1,0 +1,119 @@
+
+/*
+
+Theme Name:Majesterial
+Author:Md.Nurul Kabir
+Description:This is a new theme
+Version:5.3.2
+
+
+*/
+
+
+
+{margin:0;padding:0}
+
+	p{
+		
+		text-align:justify;
+	}
+	
+	li{list-style-type:none;}
+	
+	
+	.container{max-width:1000px;}
+	
+	
+	a{
+		display:block;
+		text-decoration:none;
+	
+		padding:2px 11px;
+	}
+	
+	a:hover{	text-decoration:none;}
+	
+	
+	.first{padding-left: 0px;
+    padding-right: 0px;
+}
+	.first ul li:hover { 
+	
+	background:pink;
+	}
+	
+	.first ul li{border-right:1px solid black;}
+	ul li:last-child{border-right:none;}
+	
+	
+	.navbar-nav{margin: -7px 0;
+	}
+	
+	.row{
+		
+		padding-left:15px;
+		padding-right:15px;
+	}
+	body{
+		font-family:arial;
+	}
+	
+	.fa ul li {
+		
+		float:left;
+		border:none;
+	}
+	
+	
+	.fa ul li a :hover{
+		
+		background:orange;
+	}
+	
+	.fa ul li a{  text-decoration:none;
+	color:black;}
+	
+	
+	.img{border-bottom:17px solid orange;}
+	
+	
+	.bloc{
+		height:50px;
+		background:url(images/md_5afd61f17bb5f.jpg) no-repeat;
+		background-size:60px 50px;
+		background-position:center left;
+		
+		
+	}
+	
+	.second{
+		
+		background:url(images/78869.jpg) no-repeat;
+	  height:490px;
+		background-size:cover;
+		
+		
+	}
+	
+	.second ul li a:hover{ background:azure;}
+	
+	
+	.fluid_sec{width: 1000px;
+    border-left: 20px solid #b2beb5;
+    border-right: 20px solid #b2beb5;
+	}
+
+	.fluid_trd{
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+	}
+	
+	
+	.foot p{ font-size:14px; 
+	margin-bottom:10px;
+	}
+	.footer p{ font-size:16px; 
+	
+	}
+	
+	
